@@ -1,0 +1,2 @@
+# wmdwm
+inital setup
